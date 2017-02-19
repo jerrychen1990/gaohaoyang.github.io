@@ -2,7 +2,7 @@
 layout:     post
 title:      《彼得·林奇的成功投资》书摘
 category:   读书
-excerpt: 《彼得·林奇的成功投资》书摘
+excerpt: 投资大师的谆谆教诲， 能够一直牢记在心就已是成功
 date:   2017-02-11 17:56:02
 tags:
     - 书摘

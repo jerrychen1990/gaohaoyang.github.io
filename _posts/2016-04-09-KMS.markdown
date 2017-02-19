@@ -2,7 +2,7 @@
 layout:     post
 title:      Kylin, Mondrian, Saiku系统的整合
 category:   技术
-excerpt: 整合Kylin, Mondrian, Saiku的技术方案
+excerpt: kylin， mondrian, saiku 整合的一次尝试。 kylin发展了起来，saiku似乎沉寂了
 date:   2016-04-09 18:16:43
 tags:
     - olap

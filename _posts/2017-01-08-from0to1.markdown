@@ -2,7 +2,7 @@
 layout:     post
 title:      《从0到1》书摘
 category:   读书
-excerpt: 《从0到1》书摘
+excerpt: 要做就做从0到1的事业！
 date:   2017-01-08 17:56:02
 tags:
     - 书摘

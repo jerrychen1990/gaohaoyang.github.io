@@ -2,7 +2,7 @@
 layout:     post
 title:      《国史大纲下》书摘
 category:   读书
-excerpt: 《国史大纲下》书摘
+excerpt: 读了3年的大部头， 中国历史中在电视剧里学不到的知识
 date:   2016-08-03 22:01:20
 tags:
     - 书摘
