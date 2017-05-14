@@ -4,7 +4,10 @@ title:      kylin初体验
 category:   技术
 date:   2016-02-26 12:16:23
 excerpt: 和大数据神兽的第一次会面，被虐的不轻，把踩过的坑记录下来。
-tags: kylin
+tags:
+    - olap
+    - Kylin
+    - BI
 ---
 
 

@@ -3,9 +3,10 @@ layout:     post
 title:      常用shell命令的深入理解（一）
 category:   技术
 excerpt: 给一直在用，却没有时间理清楚的ssh一个全面的解释
-tags: linux, ssh
 date:   2016-07-17 14:16:02
-
+tags:
+    - linux
+    - ssh
 ---
 
 #常用shell命令的深入理解（一）

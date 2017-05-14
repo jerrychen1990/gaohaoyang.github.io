@@ -3,8 +3,10 @@ layout: post
 title:  《把时间当作朋友》书摘
 date:   2016-07-10 15:14:54
 categories: 读书
-tags: 书摘
 excerpt: 把时间当作朋友》是一部需要常常读、多次读的好书，记录心得更是重要
+tags:
+    - 书摘
+    - 时间管理
 ---
 
 
